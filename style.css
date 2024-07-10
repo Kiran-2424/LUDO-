@@ -1,0 +1,113 @@
+.outer_box{
+    height: 586px;
+    width: 586px;
+    border: solid 1px black;
+    margin: auto;
+}
+.red_box{
+    height: 207px ;
+    width: 207px;
+    border: solid 1px black;
+    float: left;
+    background-color: red;
+}
+
+.green_box{
+    height: 207px ;
+    width: 207px;
+    border: solid 1px black;
+    float: left;
+    background-color: green;
+    float: right;
+}
+.upper_box{
+    height: 207px;
+    width: 167px;
+    border: solid 1px black;
+    background-color: rgb(235, 16, 16);
+    float: left;
+}
+
+.left_box{
+    height: 166px;
+    width: 207px;
+    border: solid 1px black;
+    background-color: white;
+    float: left;
+}
+
+.middle_box{
+    height: 166px ;
+    width: 167px;
+    border: solid 1px black;
+    float: left;
+    background-color: rgb(168, 10, 221);
+}
+.right_box{
+    height: 166px;
+    width: 207px;
+    border: solid 1px black;
+    background-color: white;
+    float: left;
+}
+.yellow_box{
+    height: 207px ;
+    width: 207px;
+    border: solid 1px black;
+    float: right;
+    background-color:yellow;
+}
+.blue_box{
+    height: 207px ;
+    width: 207px;
+    border: solid 1px black;
+    float:left;
+    background-color:blue;
+}
+.inner{
+    height: 150px ;
+    width: 150px;
+    border:solid 1px black;
+    background-color: rgb(237, 190, 190);
+    margin-top: 25px;
+    margin-left: 25px;
+    border-radius: 20px;
+}
+.lower_box{
+    height: 207px;
+    width: 166px;
+    border: solid 1px black;
+    background-color:white;
+    float: left;
+}
+.green{ 
+    height: 32.9px;
+    width: 53.9px;
+    border: solid 1px black;
+    background-color: white;
+    float: left;
+ }
+
+ .red{ 
+    height: 53.9px;
+    width: 32.8px;
+    border: solid 1px black;
+    background-color: white;
+    float: left;
+ } 
+ .y{ 
+    height: 53.9px;
+    width: 32.8px;
+    border: solid 1px black;
+    background-color: white;
+    float: left;
+ }
+ 
+ .lower_box .b{ 
+    height: 32.8px;
+    width: 53.7px;
+    border: solid 1px black;
+    background-color: white;
+    float: left;
+}
+
